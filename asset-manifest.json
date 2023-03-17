@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactCRUD/static/css/main.f167ad5f.css",
+    "main.js": "/reactCRUD/static/js/main.9d5ecbfd.js",
+    "index.html": "/reactCRUD/index.html",
+    "main.f167ad5f.css.map": "/reactCRUD/static/css/main.f167ad5f.css.map",
+    "main.9d5ecbfd.js.map": "/reactCRUD/static/js/main.9d5ecbfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f167ad5f.css",
+    "static/js/main.9d5ecbfd.js"
+  ]
+}
