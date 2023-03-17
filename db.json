@@ -1,0 +1,101 @@
+{
+  "questions": [
+    {
+      "title": "What does the fox Say?",
+      "detail": "Does anybody know what actually the fox say?",
+      "id": 1
+    },
+    {
+      "title": "Indonesia and Australia time difference",
+      "detail": "What actually the time difference between Indonesia and Australian in GMT",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "Richest person in the world",
+      "detail": "Who is currently the richest person in the world?"
+    },
+    {
+      "id": 4,
+      "title": "Google CEO",
+      "detail": "Who is the CEO of Google"
+    },
+    {
+      "id": 5,
+      "title": "Next Full Moon",
+      "detail": "When the next full moon be?"
+    },
+    {
+      "id": 6,
+      "title": "Number of kidney to live",
+      "detail": "Can human still alife if there is only one kidney?"
+    },
+    {
+      "id": 7,
+      "title": "Number of guitar string",
+      "detail": "How many string actually a guitar has?"
+    },
+    {
+      "id": 8,
+      "title": "Gluten in rice",
+      "detail": "Does rice consist of gluten?"
+    },
+    {
+      "id": 9,
+      "title": "Indonesia's startup unicorn",
+      "detail": "How many startup unicorn in Indonesia?"
+    },
+    {
+      "id": 10,
+      "title": "Pluto planet",
+      "detail": "Does pluto still called as planet?"
+    },
+    {
+      "id": 11,
+      "title": "Martabak vs Apam Balek",
+      "detail": "What is the difference between martabak and apam balek?"
+    },
+    {
+      "id": 12,
+      "title": "Uninstall Internet Explorer",
+      "detail": "Can i just uninstall internet explorer since I don't neet it"
+    }
+  ],
+  "about": [
+    {
+      "title": "PRAP Project",
+      "detail": "PRAP adalah sebuah kegiatan yang ditujukan untuk aktivis BNCC untuk meningkatkan skill leadership dan juga teamwork. Disini saya kebagian untuk menjadi PIC Website dan saya membuat website untuk teman 1 kelompok saya yang berisi tentang visi, misi, anggota, artikel, dan masih banyak lagi.",
+      "id": 1
+    },
+    {
+      "title": "TPM Project",
+      "detail": "TPM adalah singkatan dari Training Project Member, dimana aktivis yang mendaftar untuk mengikuti TPM ini akan mengikuti training selama 5 pertemuan kemudian akan membuat final project dari masing masing divisi (Front-End, Back-End, dan UI/UX Design) berdasarkan kelompok yang telah ditentukan. Disini saya memilih sebagai Front-End Developernya",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "Mid Project LnT Java Programming",
+      "detail": "Mid Project LnT adalah sebuah project untuk setengah pertemuan LnT Regular Class yang diberikan kepada member LnT berdasarkan kelas yang dipilih masing-masing member. Kelas-kelas LnT diantaranya ada Java Programming, Front-End, Back-End, Mobile Apps, UI/UX Design. Saya sebagai member LnT untuk tahun pertama mengambil Java Programming. Untuk Mid Project LnT Java Programming sendiri, saya disuruh untuk membuat sebuah proyek untuk memasukan, menyimpan, mengubah, menghapus data sebuah inputan"
+    },
+    {
+      "id": 4,
+      "title": "Final Project LnT Java Programming",
+      "detail": "Final Project LnT sendiri adalah prosesi akhir dari Regular class LnT. Disini saya disuruh untuk membuat sebuah Java GUI yang digunakan untuk menginput data, menyimpan data, menghapus data dan mengedit data inputan"
+    },
+    {
+      "id": 5,
+      "title": "TechnoScape 2022",
+      "detail": "TechnoScape 2022 adalah event terbesar yang pernah diadakan oleh organisasi BNCC. Disini saya mengambil peran sebagai divisi Tere (Teknologi dan Registrasi) dimana tugas kita sebagai divisi Tere adalah membuat tampilan website, karena kebetulan saya juga mengambil dibagian Front-Endnya. Saat event TechnoScape ini saya kebagian untuk mengerjakan bagian User Dashboard."
+    },
+    {
+      "id": 6,
+      "title": "Introduction to Database Systems Final Project",
+      "detail": "Introduction to Database Systems Final Project adalah sebuah project akhir yang diberikan oleh Aslab dimana setiap kelompok disuruh untuk membuat database dari case yang telah diberikan oleh Aslab sendiri."
+    },
+    {
+      "id": 7,
+      "title": "User Experience Research and Design Final Project",
+      "detail": "User Experience Research and Design Final Project adalah sebuah project akhir yang diberikan oleh Aslab dimana setiap kelompok disuruh untuk membuat sebuah scenario, mulai dari stories, conceptual dan juga concrete scenario, kemudian membuat user persona, navigation map, user journey map, wireframes dan juga prototype."
+    }
+  ]
+}
